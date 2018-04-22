@@ -2,6 +2,6 @@
 
 This is repo is my memory, a place where I can always come back to remember on the best thoughts and takeaways from my favourite books on programming.
 
-## Quotes by books
+## Books
 
-- [Your Code As A Crime Scene](./books/Your-Code-As-A-Crime-Scene.md) <span style="color:gray;">(Adam Tornhill)</span>
+- [Your Code As A Crime Scene](./books/Your-Code-As-A-Crime-Scene.md) (Adam Tornhill)
