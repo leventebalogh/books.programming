@@ -1,16 +1,17 @@
 [< Back](../../README.md)
 
 # Your Code As A Crime Scene
-**Author:** Adam Tornhill
+**Author:** Adam Tornhill <br />
 **Buy:** [Book Depository](https://www.bookdepository.com/Your-Code-Crime-Scene-Adam-Tornhill/9781680500387)
 
 ![Your Code As A Crime Scene](./cover.jpg "Your Code As A Crime Scene")
 
 ## Takeaway
 
-For me the key takeaway from the book was how we can figure out which parts we really need to refactor.
+For me the key takeaway from the book was how we can figure out which parts we really need to refactor. <br />
 There can be parts in the code which are totally useless to refactor and there can be key areas which are really slowing us down.
 The easiest way to figure out the code that needs to be refactored is to use the data stored in our version control system.
+
 Take the most often modified files and order them based on complexity and boom, you have possibly found the culprit.
 
 ## Quotes
